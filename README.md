@@ -1,6 +1,6 @@
 Our presentation: https://indd.adobe.com/view/89366e5f-daa5-49f9-9a35-14e51354a54d
 
-Here is a Interactive demo for our design using Python.
+Here is an interactive demo of our design using Python.
 
 Practicum experience in exhibition design team at Birch Aquarium.
 
